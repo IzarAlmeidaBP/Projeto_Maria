@@ -1,0 +1,42 @@
+html {
+  font-family: Hevetica;
+  background-color: #DDD;
+}
+
+.container {
+  max-width: 1200px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 50px;
+  background-color: #FFF;
+}
+
+.img-carol {
+  width: 400px;
+  height: 600px;
+}
+
+.destaque {
+  font-weight: bold;
+}
+
+.cabecalho {
+  text-align: center;
+}
+
+.paragrafo-principal {
+  font-size: italic;
+}
+
+.img-destaque {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.biografia-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #DDD;
+  border-bottom: 1px dashed #DDD;
+}
